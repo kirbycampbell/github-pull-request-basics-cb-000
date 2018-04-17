@@ -91,7 +91,7 @@ Click on the New Pull Request button.
 
 ![](https://curriculum-content.s3.amazonaws.com/gitpulls/2.png)
 
-### Step 2
+### Step 2 ok
 
 Here you can choose the base fork, which will be `their-user-name/awesome-lab`.
 Then choose the head fork, which will be `your-user-name/awesome-lab`
